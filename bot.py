@@ -128,4 +128,4 @@ async def hello(ctx):
     await ctx.send("Greetings. I am **The Arcade bot** — your server's protector. 🛡️🤖")
 
 keep_alive()
-bot.run("YOUR_BOT_TOKEN_HERE")  # Replace with your actual bot token
+bot.run("MTM5NDYyNTQ4MDA0ODY0NDE3OA.G-dyCg.zhLir25HTerdPeDNMDcmZEQmF43_KMe86xayTI")  # Replace with your actual bot token
