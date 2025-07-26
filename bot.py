@@ -125,7 +125,7 @@ async def unmute(ctx, member: discord.Member):
 
 @bot.command()
 async def hello(ctx):
-    await ctx.send("Greetings. I am **The Nexus** — your server's protector. 🛡️🤖")
+    await ctx.send("Greetings. I am **The Arcade bot** — your server's protector. 🛡️🤖")
 
 keep_alive()
 bot.run("YOUR_BOT_TOKEN_HERE")  # Replace with your actual bot token
